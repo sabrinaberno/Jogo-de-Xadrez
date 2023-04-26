@@ -1,0 +1,15 @@
+C:\Users\sabrinaberno\Documents\Udemy - Projetos\Jogo-de-Xadrez\obj\Debug\net7.0\jogo-de-xadrez.csproj.AssemblyReference.cache
+C:\Users\sabrinaberno\Documents\Udemy - Projetos\Jogo-de-Xadrez\obj\Debug\net7.0\jogo-de-xadrez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabrinaberno\Documents\Udemy - Projetos\Jogo-de-Xadrez\obj\Debug\net7.0\jogo-de-xadrez.AssemblyInfoInputs.cache
+C:\Users\sabrinaberno\Documents\Udemy - Projetos\Jogo-de-Xadrez\obj\Debug\net7.0\jogo-de-xadrez.AssemblyInfo.cs
+C:\Users\sabrinaberno\Documents\Udemy - Projetos\Jogo-de-Xadrez\obj\Debug\net7.0\jogo-de-xadrez.csproj.CoreCompileInputs.cache
+C:\Users\sabrinaberno\Documents\Udemy - Projetos\Jogo-de-Xadrez\bin\Debug\net7.0\jogo-de-xadrez.exe
+C:\Users\sabrinaberno\Documents\Udemy - Projetos\Jogo-de-Xadrez\bin\Debug\net7.0\jogo-de-xadrez.deps.json
+C:\Users\sabrinaberno\Documents\Udemy - Projetos\Jogo-de-Xadrez\bin\Debug\net7.0\jogo-de-xadrez.runtimeconfig.json
+C:\Users\sabrinaberno\Documents\Udemy - Projetos\Jogo-de-Xadrez\bin\Debug\net7.0\jogo-de-xadrez.dll
+C:\Users\sabrinaberno\Documents\Udemy - Projetos\Jogo-de-Xadrez\bin\Debug\net7.0\jogo-de-xadrez.pdb
+C:\Users\sabrinaberno\Documents\Udemy - Projetos\Jogo-de-Xadrez\obj\Debug\net7.0\jogo-de-xadrez.dll
+C:\Users\sabrinaberno\Documents\Udemy - Projetos\Jogo-de-Xadrez\obj\Debug\net7.0\refint\jogo-de-xadrez.dll
+C:\Users\sabrinaberno\Documents\Udemy - Projetos\Jogo-de-Xadrez\obj\Debug\net7.0\jogo-de-xadrez.pdb
+C:\Users\sabrinaberno\Documents\Udemy - Projetos\Jogo-de-Xadrez\obj\Debug\net7.0\jogo-de-xadrez.genruntimeconfig.cache
+C:\Users\sabrinaberno\Documents\Udemy - Projetos\Jogo-de-Xadrez\obj\Debug\net7.0\ref\jogo-de-xadrez.dll
