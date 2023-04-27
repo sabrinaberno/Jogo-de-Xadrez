@@ -4,7 +4,7 @@ namespace tabuleiro {
         public int colunas {get; set;}
         // rever vídeo de matrizes 
         // privado para evitar alterações indevidas 
-        private Peca[,]pecas;
+        private Peca[,] pecas;
 
         public Tabuleiro(int linhas, int colunas){
             this.linhas = linhas;
@@ -14,6 +14,12 @@ namespace tabuleiro {
 
         public Peca peca(int linha, int coluna){
             return pecas[linha, coluna];
+        }
+
+        public void colocarPeca(Peca p, Posicao pos){
+            //jogando a peça p nessa posição 
+            pecas [pos.linha, pos.coluna] = p;
+            p.posicao = pos;
         }
     }
 }
