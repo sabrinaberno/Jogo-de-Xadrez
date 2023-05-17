@@ -46,7 +46,6 @@ namespace jogo_de_xadrez {
             Console.Write("]");
         }
 
-        // estudar métodos estáticos
         public static void imprimirTabuleiro(Tabuleiro tab) {
             
             for (int i=0; i<tab.linhas; i++){
